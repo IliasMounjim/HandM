@@ -6544,6 +6544,7 @@ fieldset:disabled .btn {
 
 .carousel {
     position: relative;
+    z-index: 995;
 }
 
 .carousel.pointer-event {
@@ -11260,7 +11261,7 @@ section {
     position: fixed;
     left: 30px;
     bottom: 30px;
-    z-index: 999;
+    z-index: 990;
 }
 
 .text-shadow {
