@@ -11260,6 +11260,7 @@ section {
     position: fixed;
     left: 30px;
     bottom: 30px;
+    z-index: 999;
 }
 
 .text-shadow {
@@ -11267,4 +11268,4 @@ section {
 }
 
 
-/* Credit to https://epicbootstrap.com/snippets/footer-with-columns *
+/* Credit to https://epicbootstrap.com/snippets/footer-with-columns
