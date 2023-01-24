@@ -665,9 +665,7 @@ progress {
 }
 
 .map {
-    height: 25rem;
-    width: 25rem;
-    /* display: block; */
+    height: 30rem;
 }
 
 .map iframe {
